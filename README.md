@@ -1,2 +1,2 @@
 # Arun-chauhan
-This is for the my first repositiry
+This is the my first repositiry
